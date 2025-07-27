@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Veljko! 👋
 
-<!--
-**veljkodjj/veljkodjj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate final-year Electronic Engineering student from Niš, Serbia — curious about how technology shapes the world and eager to build solutions that matter.
 
-Here are some ideas to get you started:
+I enjoy crafting clean, thoughtful code and exploring a wide range of tech — from web development to system design, and everything in between.  
+Whether it’s building a solid backend, experimenting with frontend frameworks, or diving into new tools, I’m always up for the challenge.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### What drives me:
+- Building meaningful projects that solve real problems  
+- Learning constantly and sharing knowledge  
+- Writing code that’s easy to maintain and understand  
+- Exploring new ideas and staying flexible in approach  
+
+---
+
+### Let’s connect!  
+📫 Reach me at: veljkodj25@gmail.com  
+
+---
+
+Thanks for dropping by — feel free to say hello or collaborate!
