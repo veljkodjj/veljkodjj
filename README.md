@@ -1,6 +1,6 @@
 # Hi there, I'm Veljko! 👋
 
-A passionate final-year Electronic Engineering student from Niš, Serbia — curious about how technology shapes the world and eager to build solutions that matter.
+A passionate final-year Electronic Engineering student from Niš, Serbia curious about how technology shapes the world and eager to build solutions that matter.
 
 I enjoy crafting clean, thoughtful code and exploring a wide range of tech — from web development to system design, and everything in between.  
 Whether it’s building a solid backend, experimenting with frontend frameworks, or diving into new tools, I’m always up for the challenge.
